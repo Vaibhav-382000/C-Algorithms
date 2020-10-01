@@ -1,50 +1,58 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/osdfs/shared_invite/zt-eecws9vb-zvmzBeSPgBZrE9RWVj43Sw)
 
-- Join osDFS on Slack and then search for `#c-algorithms`
+**Join osDFS on Slack and search for `#c-algorithms`
 
 # C-Algorithms
-Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can. But for now we are focused only on C languages. Soon we will work on another language as well.
 
-## All Algorithms implemented in C (for learning)
-Contribute algorithms written in C language. It's beginner friendly! Feel free to work on an open an issue and commit if you have a more efficient way of implementing an algorithm. You can!
+Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want to. So we are developing a repository having implementation in as many languages as we can. But for now we are focussing only on C language. Soon we will work on another language as well.
+
+## All Algorithms implemented in C (for learning purpose)
+
+Contribute algorithms written in C language. It's beginner friendly! Feel free to open an issue and commit if you have a more efficient way of implementing an algorithm.
+"You Can and You Will"
 
 ## Getting Started
-- **Fork** this repository (Click the 'Fork' button, top right of this page)
-- **Clone** your forked copy of this repo down to your local machine:
+
+1) **Fork** this repository (Click the 'Fork' button, top right of this page)
+
+2) **Clone** your forked copy of this repo down to your local machine:
 ```
 git clone https://github.com/<insert-your-username>/C-Algorithms.git
 ```
-- **Change directory** to get inside repository:
+3) **Change directory** to get inside repository:
 ```
 cd C-Algorithms
 ```
-- **Create a branch** for a new algorithm contribution:
+4) **Create a branch** for a new algorithm contribution:
 ```
 git checkout -b feature/<name-of-algorithm>
 ```
-- *Or* if its a bugfix to a file:
+or if its a bugfix to a file:
 ```
 git checkout -b bugfix/<title-of-issue>
 ```
-- Make your changes locally
-- **Stage** and **commit** changes:
+5) Make your changes locally
+
+6) **Stage** and **commit** changes:
 ```
 git add .
 git commit -m 'commit message'
 ```
-- **Push** changes to GitHub:
+7) **Push** changes to GitHub:
 ```
 git push origin <branch-name>
 ```
-- Create a **New Pull Request** (PR) from your forked repository on GitHub (Click the 'New Pull Request' Button located at the top of your repo)
-- Wait for your PR review and merge approval!
-- ***Star this repository*** if you had fun! :)
+8) Create a **New Pull Request** (PR) from your forked repository on GitHub (Click the 'New Pull Request' Button located at the top of your repo)
+
+9) Wait for your PR review and merge approval!
+
+10) ***Star this repository*** if you had fun! :)
 
 ### Sync it :recycle:
 
-Always keep your local copy of repository updated with the original repository.
-Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
+: Always keep your local copy of repository updated with the original repository.
+: Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
 
 ```sh
 # Fetch all remote repositories and delete any deleted remote branches
